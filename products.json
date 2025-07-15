@@ -1,0 +1,30 @@
+{
+  "футболки": [
+    {
+      "title": "Футболка Поло Pоlо rаlph lаurеn",
+      "price": "2290₽",
+      "sizes": "XL",
+      "link": "https://www.avito.ru/orenburg/odezhda_obuv_aksessuary/futbolka_polo_new_soprano_7347553504"
+    },
+
+    {
+      "title": "RICH SENS WORLDWIDE (оригинал)",
+      "price": "2800₽",
+      "sizes": "L",
+      "link": "https://www.avito.ru/orenburg/odezhda_obuv_aksessuary/futbolka_polo_new_soprano_7347553504"
+    }
+  ],
+  
+  "верхняя одежда": [
+    {
+      "title": "Свитера lacoste vintage",
+      "price": "3890₽",
+      "sizes": "M, M",
+      "link": "https://www.avito.ru/orenburg/odezhda_obuv_aksessuary/sviter_lacoste_7347214351"
+    }
+  ],
+  "джинсы": [],
+  "шорты": [],
+  "обувь": [],
+  "головные уборы": []
+}
